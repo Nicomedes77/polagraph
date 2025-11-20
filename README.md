@@ -39,6 +39,6 @@ https://www.marginallyclever.com/2021/10/friday-facts-4-how-to-marlin-polargraph
 
 ## Proyectos similares
 https://www.tinkercad.com/projects/Polargraph-Plotter
-https://www.instructables.com/BLACKBOARD-V-PLOTTER/ (lo hace con arduino + ramps)
-https://www.marginallyclever.com/products/makelangelo-5/
+https://www.instructables.com/BLACKBOARD-V-PLOTTER/ (Arduino Mega + RAMPS)
+https://www.marginallyclever.com/products/makelangelo-5
 https://lizmelchor.com/wall-robot/?v=fa868488740a
