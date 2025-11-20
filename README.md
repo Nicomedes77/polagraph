@@ -1,6 +1,11 @@
 # Polagraph
 Proyecto desarrollado en el FABLAB del Centro de Formación Profesional Nº8 - SMATA
 
+![imagen_1](./imagenes/01.jpeg)
+![imagen_2](./imagenes/02.jpeg)
+![imagen_3](./imagenes/03.jpeg)
+![imagen_4](./imagenes/04.jpeg)
+
 ## Materiales
 - Tabla de madera (1)
 - Arduino MEGA 2560 (1)
